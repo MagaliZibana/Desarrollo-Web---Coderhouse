@@ -14,7 +14,7 @@
 }
 
 .navbar-toggler-icon {
-    background-image: url("../imgs/menu-hamburguesa.png");
+    background-image: ("../imgs/menu-hamburguesa.png");
     width: 30px;
 }
 
@@ -385,6 +385,7 @@ footer {
         width: 80px;
     }
 
+    /* QUEDA POR HACER */
     .contenedor-imagen-trabajo {
         width: 50%;
     }
